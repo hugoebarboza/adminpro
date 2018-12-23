@@ -11,11 +11,12 @@ import { RegisterComponent } from './login/register.component';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,    
-    RegisterComponent,
+    RegisterComponent, 
   ],
   imports: [
     BrowserModule,
